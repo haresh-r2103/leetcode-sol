@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/haresh-r2103/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 ## Backtracking
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/haresh-r2103/leetcode-sol/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/haresh-r2103/leetcode-sol/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
