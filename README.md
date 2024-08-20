@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/haresh-r2103/leetcode-sol/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
