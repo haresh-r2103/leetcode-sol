@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/haresh-r2103/leetcode-sol/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haresh-r2103/leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
