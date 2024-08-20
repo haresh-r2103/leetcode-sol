@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/haresh-r2103/leetcode-sol/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/haresh-r2103/leetcode-sol/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/haresh-r2103/leetcode-sol/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/haresh-r2103/leetcode-sol/tree/master/0066-plus-one) |
 ## Simulation
 |  |
 | ------- |
