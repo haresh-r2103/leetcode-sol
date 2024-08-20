@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/haresh-r2103/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
 ## Backtracking
@@ -52,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
