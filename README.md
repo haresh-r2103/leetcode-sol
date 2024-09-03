@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/haresh-r2103/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/haresh-r2103/leetcode-sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Trie
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/haresh-r2103/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/haresh-r2103/leetcode-sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
