@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2155-find-missing-observations) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/haresh-r2103/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/haresh-r2103/leetcode-sol/tree/master/0141-linked-list-cycle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/haresh-r2103/leetcode-sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/haresh-r2103/leetcode-sol/tree/master/0141-linked-list-cycle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
