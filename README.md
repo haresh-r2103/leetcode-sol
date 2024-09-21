@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/haresh-r2103/leetcode-sol/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/haresh-r2103/leetcode-sol/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
