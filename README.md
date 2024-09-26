@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/haresh-r2103/leetcode-sol/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0495-teemo-attacking](https://github.com/haresh-r2103/leetcode-sol/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/haresh-r2103/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
+| [0495-teemo-attacking](https://github.com/haresh-r2103/leetcode-sol/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/haresh-r2103/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/haresh-r2103/leetcode-sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
