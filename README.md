@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/haresh-r2103/leetcode-sol/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/haresh-r2103/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/haresh-r2103/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Design
 |  |
