@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haresh-r2103/leetcode-sol/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/haresh-r2103/leetcode-sol/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/haresh-r2103/leetcode-sol/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/haresh-r2103/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/haresh-r2103/leetcode-sol/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0179-largest-number) |
 | [0420-strong-password-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/0420-strong-password-checker) |
 ## String
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/haresh-r2103/leetcode-sol/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haresh-r2103/leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
