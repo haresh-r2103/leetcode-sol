@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/haresh-r2103/leetcode-sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2155-find-missing-observations) |
 | [2470-removing-stars-from-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/haresh-r2103/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2470-removing-stars-from-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
