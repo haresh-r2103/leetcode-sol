@@ -205,14 +205,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
