@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/haresh-r2103/leetcode-sol/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/haresh-r2103/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/haresh-r2103/leetcode-sol/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1019-squares-of-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/haresh-r2103/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0179-largest-number) |
 | [0420-strong-password-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/0420-strong-password-checker) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haresh-r2103/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/haresh-r2103/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1019-squares-of-a-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/0420-strong-password-checker) |
 | [0506-relative-ranks](https://github.com/haresh-r2103/leetcode-sol/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/haresh-r2103/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Breadth-First Search
 |  |
 | ------- |
