@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/haresh-r2103/leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/haresh-r2103/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1923-sentence-similarity-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
+| [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 | [0420-strong-password-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/0420-strong-password-checker) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haresh-r2103/leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
