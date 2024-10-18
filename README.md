@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/haresh-r2103/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haresh-r2103/leetcode-sol/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/haresh-r2103/leetcode-sol/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
