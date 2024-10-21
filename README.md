@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haresh-r2103/leetcode-sol/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/haresh-r2103/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/haresh-r2103/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/haresh-r2103/leetcode-sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
