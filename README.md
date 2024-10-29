@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
