@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2358-number-of-ways-to-split-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haresh-r2103/leetcode-sol/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
