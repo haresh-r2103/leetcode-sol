@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/haresh-r2103/leetcode-sol/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/haresh-r2103/leetcode-sol/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/haresh-r2103/leetcode-sol/tree/master/2615-make-number-of-distinct-characters-equal) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
 |  |
 | ------- |
