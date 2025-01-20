@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/haresh-r2103/leetcode-sol/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haresh-r2103/leetcode-sol/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/haresh-r2103/leetcode-sol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/haresh-r2103/leetcode-sol/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/haresh-r2103/leetcode-sol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
