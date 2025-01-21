@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haresh-r2103/leetcode-sol/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/haresh-r2103/leetcode-sol/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/haresh-r2103/leetcode-sol/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/haresh-r2103/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/haresh-r2103/leetcode-sol/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haresh-r2103/leetcode-sol/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/haresh-r2103/leetcode-sol/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
