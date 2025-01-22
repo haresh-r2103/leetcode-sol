@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/haresh-r2103/leetcode-sol/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/haresh-r2103/leetcode-sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1876-map-of-highest-peak](https://github.com/haresh-r2103/leetcode-sol/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/haresh-r2103/leetcode-sol/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
