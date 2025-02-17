@@ -1,38 +1,55 @@
 class Solution {
 public:
+    int firstPos(vector<int>& nums, int target){
+        int fp = -1;
+      
+        int s = 0, e = nums.size()-1;   
+        while(s <= e){
+            int m = s + (e-s)/2;
+            if(nums[m]  == target){
+                fp = m;
+                e = m-1;
+            }
+            else if(nums[m] > target){
+                e = m - 1;
+            }
+            else{
+                s = m + 1;
+            }
+        }
+        return fp;
+    }
+    int secondPos(vector<int>& nums, int target){
+        int sp = -1;
+        int s = 0, e = nums.size()-1;   
+        while(s <= e){
+            int m = s + (e-s)/2;
+            if(nums[m]  == target){
+                sp = m;
+                s = m + 1;
+            }
+            else if(nums[m] > target){
+                e = m - 1;
+            }
+            else{
+                s = m + 1;
+            }
+        }
+        return sp;
+    }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int s = 0;
-        int f_ocr=-1,l_ocr=-1;
-        int l = nums.size()-1;
-        //first occurence --->
-        while(s<=l){
-            int mid = s + (l-s)/2;
-            if(target==nums[mid])
-            {
-                f_ocr = mid;
-                l = mid-1;
-            }
-            else if(target>nums[mid]){
-                s = mid+1;
-            }
-            else l = mid-1;
+        int fp = firstPos(nums, target);
+        int sp = secondPos(nums, target);
+        vector<int> ans;
+        vector<int> illa = {-1, -1};
+        int n = nums.size();
+        if(n==0) return illa;
+        else{
+            ans.push_back(fp);
+            ans.push_back(sp);
+            return ans;
         }
-        s=0;l=nums.size()-1;
-        //last occurance --->
-        while(s<=l){
-            int mid = s + (l-s)/2;
-            if(target==nums[mid])
-            {
-                l_ocr = mid;
-                s = mid+1;
-            }
-            else if(target<nums[mid]){
-                l = mid-1;
-            }
-            else s = mid+1;
-        }
-       if(f_ocr==-1)return {-1,-1};
-        else return {f_ocr,l_ocr};
-    
+
+        
     }
 };
