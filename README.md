@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/haresh-r2103/leetcode-sol/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0110-balanced-binary-tree) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
