@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/haresh-r2103/leetcode-sol/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2551-apply-operations-to-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2551-apply-operations-to-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/haresh-r2103/leetcode-sol/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2155-find-missing-observations) |
 | [2470-removing-stars-from-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/haresh-r2103/leetcode-sol/tree/master/3447-clear-digits) |
 ## Divide and Conquer
