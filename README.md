@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/haresh-r2103/leetcode-sol/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1019-squares-of-a-sorted-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/haresh-r2103/leetcode-sol/tree/master/1364-tuple-with-same-product) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0952-word-subsets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/haresh-r2103/leetcode-sol/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/haresh-r2103/leetcode-sol/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haresh-r2103/leetcode-sol/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
