@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/haresh-r2103/leetcode-sol/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haresh-r2103/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haresh-r2103/leetcode-sol/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haresh-r2103/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haresh-r2103/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/haresh-r2103/leetcode-sol/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3324-split-the-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
