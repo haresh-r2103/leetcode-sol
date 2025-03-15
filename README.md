@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haresh-r2103/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/haresh-r2103/leetcode-sol/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haresh-r2103/leetcode-sol/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haresh-r2103/leetcode-sol/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haresh-r2103/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/haresh-r2103/leetcode-sol/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
