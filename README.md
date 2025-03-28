@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/haresh-r2103/leetcode-sol/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haresh-r2103/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/haresh-r2103/leetcode-sol/tree/master/2665-minimum-time-to-repair-cars) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haresh-r2103/leetcode-sol/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/haresh-r2103/leetcode-sol/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/haresh-r2103/leetcode-sol/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/haresh-r2103/leetcode-sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-minimum-total-distance-traveled](https://github.com/haresh-r2103/leetcode-sol/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/haresh-r2103/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
 |  |
@@ -505,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/haresh-r2103/leetcode-sol/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/haresh-r2103/leetcode-sol/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Number Theory
@@ -575,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/haresh-r2103/leetcode-sol/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/haresh-r2103/leetcode-sol/tree/master/2793-count-the-number-of-complete-components) |
