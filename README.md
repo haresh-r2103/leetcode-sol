@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/haresh-r2103/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/haresh-r2103/leetcode-sol/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/haresh-r2103/leetcode-sol/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haresh-r2103/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0179-largest-number) |
 | [0420-strong-password-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/0420-strong-password-checker) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/haresh-r2103/leetcode-sol/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haresh-r2103/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1502-construct-k-palindrome-strings) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/haresh-r2103/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
+| [0768-partition-labels](https://github.com/haresh-r2103/leetcode-sol/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0952-word-subsets) |
