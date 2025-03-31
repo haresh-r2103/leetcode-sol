@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haresh-r2103/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/haresh-r2103/leetcode-sol/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/haresh-r2103/leetcode-sol/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/haresh-r2103/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/haresh-r2103/leetcode-sol/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/haresh-r2103/leetcode-sol/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/haresh-r2103/leetcode-sol/tree/master/2681-put-marbles-in-bags) |
 | [3195-separate-black-and-white-balls](https://github.com/haresh-r2103/leetcode-sol/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2681-put-marbles-in-bags](https://github.com/haresh-r2103/leetcode-sol/tree/master/2681-put-marbles-in-bags) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/haresh-r2103/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/haresh-r2103/leetcode-sol/tree/master/2681-put-marbles-in-bags) |
 ## Prefix Sum
 |  |
 | ------- |
