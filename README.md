@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/haresh-r2103/leetcode-sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/haresh-r2103/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2107-find-unique-binary-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/haresh-r2103/leetcode-sol/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/haresh-r2103/leetcode-sol/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haresh-r2103/leetcode-sol/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/2308-divide-array-into-equal-pairs) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/haresh-r2103/leetcode-sol/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/haresh-r2103/leetcode-sol/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/haresh-r2103/leetcode-sol/tree/master/2610-closest-prime-numbers-in-range) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
 |  |
@@ -644,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/haresh-r2103/leetcode-sol/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
