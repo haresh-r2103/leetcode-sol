@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1236-n-th-tribonacci-number) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/haresh-r2103/leetcode-sol/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/haresh-r2103/leetcode-sol/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -658,9 +659,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/haresh-r2103/leetcode-sol/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/haresh-r2103/leetcode-sol/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Graph Theory
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/haresh-r2103/leetcode-sol/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
