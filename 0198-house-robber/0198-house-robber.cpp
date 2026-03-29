@@ -1,21 +1,22 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);
         int n = nums.size();
-        int ans = dynamicProg(n-1, nums, dp);
-        return ans;
+        vector<int> dp(n, -1);
+        return findAllSub(nums, n-1, dp);
     }
 
-    int dynamicProg(int ind, vector<int>& nums, vector<int>& dp){
-        if(ind==0) return nums[0];
-        if(ind<0) return 0;
+
+    int findAllSub(vector<int>& nums, int ind, vector<int>& dp){
+
+        if(ind == 0) return nums[ind];
+        if(ind < 0) return 0;
 
         if(dp[ind] != -1) return dp[ind];
+        
+        int p = nums[ind] + findAllSub(nums, ind-2, dp);
+        int np = findAllSub(nums, ind-1, dp);
 
-        int pick = nums[ind] + dynamicProg(ind-2, nums, dp);
-        int npick = 0 + dynamicProg(ind-1, nums, dp);
-
-        return dp[ind] =  max(pick, npick);
+        return dp[ind] =  max(p, np);
     }
 };
