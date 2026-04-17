@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3643-zero-array-transformation-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/haresh-r2103/leetcode-sol/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haresh-r2103/leetcode-sol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/haresh-r2103/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
 |  |
 | ------- |
