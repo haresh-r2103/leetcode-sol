@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/haresh-r2103/leetcode-sol/tree/master/0495-teemo-attacking) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/haresh-r2103/leetcode-sol/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/haresh-r2103/leetcode-sol/tree/master/0907-koko-eating-bananas) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/haresh-r2103/leetcode-sol/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/haresh-r2103/leetcode-sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0647-palindromic-substrings) |
