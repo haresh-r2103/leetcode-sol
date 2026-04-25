@@ -3,15 +3,18 @@ public:
     int longestCommonSubsequence(string text1, string text2) {
         int n = text1.length();
         int m = text2.length();
-        vector<vector<int>> dp(n, vector<int>(m, -1));
-        return dfs(0, 0, text1, text2, dp);
-    }
+        vector<vector<int>> lcs(n+1, vector<int>(m+1, 0));
 
-    int dfs(int i, int j, string& s1, string s2, vector<vector<int>>& dp){
-        if(i == s1.length() || j == s2.length())  return 0;
+        for(int i = 1; i <= n; ++i){
+            for(int j = 1; j <= m; ++j){
+                if(text1[i-1] == text2[j-1]){
+                    lcs[i][j] = 1 + lcs[i-1][j-1];
+                } else {
+                    lcs[i][j] = max(lcs[i-1][j], lcs[i][j-1]);
+                }
+            }
+        }
 
-        if(dp[i][j] != -1) return dp[i][j];
-        else if(s1[i] == s2[j])  return dp[i][j] = 1 + dfs(i+1, j+1, s1, s2, dp);
-        else return dp[i][j] = max(dfs(i+1, j, s1, s2, dp), dfs(i, j+1, s1, s2, dp));
+        return lcs[n][m];
     }
 };
