@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/haresh-r2103/leetcode-sol/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/haresh-r2103/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/haresh-r2103/leetcode-sol/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/haresh-r2103/leetcode-sol/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/haresh-r2103/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/haresh-r2103/leetcode-sol/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/1137-height-checker) |
 ## Data Stream
 |  |
