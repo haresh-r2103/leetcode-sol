@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/haresh-r2103/leetcode-sol/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/haresh-r2103/leetcode-sol/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haresh-r2103/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/haresh-r2103/leetcode-sol/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/haresh-r2103/leetcode-sol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haresh-r2103/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haresh-r2103/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haresh-r2103/leetcode-sol/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/haresh-r2103/leetcode-sol/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/1137-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Data Stream
 |  |
 | ------- |
