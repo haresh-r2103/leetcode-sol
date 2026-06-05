@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haresh-r2103/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1441-build-an-array-with-stack-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haresh-r2103/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/haresh-r2103/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/haresh-r2103/leetcode-sol/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/haresh-r2103/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/haresh-r2103/leetcode-sol/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/1441-build-an-array-with-stack-operations) |
 | [1552-build-an-array-with-stack-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/haresh-r2103/leetcode-sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/haresh-r2103/leetcode-sol/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haresh-r2103/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/haresh-r2103/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
+| [1441-build-an-array-with-stack-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/haresh-r2103/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/1552-build-an-array-with-stack-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/haresh-r2103/leetcode-sol/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
