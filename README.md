@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/haresh-r2103/leetcode-sol/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/haresh-r2103/leetcode-sol/tree/master/3447-clear-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
