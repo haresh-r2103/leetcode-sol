@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/haresh-r2103/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/haresh-r2103/leetcode-sol/tree/master/0495-teemo-attacking) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
