@@ -4,28 +4,32 @@ public:
         if(amount == 0) return 0;
         int n = coins.size();
 
-        vector<vector<int>> dp(n+1, vector<int>(amount+1, -1));
 
-        int ans = solve(n-1, coins, amount, dp);
+        vector<vector<int>> dp(n, vector<int>(amount+1, 0));
+
+        // base cases
+        for(int T = 0; T <= amount; ++T){
+            if(T % coins[0] == 0){
+                dp[0][T] = T / coins[0];
+            } else {
+                dp[0][T] = 1e9;
+            }
+        }
         
-        return ans == 1e9 ? -1 : ans;
-    }
 
-    int solve(int ind, vector<int>& coins, int amt, vector<vector<int>>& dp){
-        if(ind == 0){
-            if(amt % coins[ind] == 0) return amt / coins[ind];
-            else return 1e9;
+        for(int ind = 1; ind < n; ++ind){
+            for(int target = 0; target <= amount; ++target){
+                int np = 0 + dp[ind-1][target];
+                int p = 1e9;
+                if(coins[ind] <= target){
+                    p = 1 + dp[ind][target - coins[ind]];
+                }
+                dp[ind][target] = min(p, np);
+            }
+
         }
 
-        if(dp[ind][amt] != -1) return dp[ind][amt];
-
-        int np = 0 + solve(ind-1, coins, amt, dp);
-        int p = 1e9;
-        if(coins[ind] <= amt){
-            p = 1 + solve(ind, coins, amt - coins[ind], dp);
-        }
-
-        return dp[ind][amt] = min(p, np);
+        return dp[n-1][amount] == 1e9 ? -1 : dp[n-1][amount];
+        
     }
-
 };
