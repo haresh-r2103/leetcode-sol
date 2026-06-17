@@ -18,9 +18,9 @@ public:
         
 
         for(int ind = 1; ind < n; ++ind){
-            for(int target = 0; target <= amount; ++target){
-                int np = 0 + dp[ind-1][target];
-                int p = 1e9;
+            for(int target = 1; target <= amount; ++target){
+                long np = 0 + dp[ind-1][target];
+                long p = 1e9;
                 if(coins[ind] <= target){
                     p = 1 + dp[ind][target - coins[ind]];
                 }
