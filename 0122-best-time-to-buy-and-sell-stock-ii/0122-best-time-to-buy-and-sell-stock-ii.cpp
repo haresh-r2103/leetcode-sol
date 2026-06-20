@@ -3,8 +3,29 @@ public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
 
-        vector<vector<int>> dp(n+1, vector<int>(2, -1));
-        return solve(0, prices, 1, dp);
+        vector<vector<int>> dp(n+1, vector<int>(2, 1));
+
+        dp[n][1] = dp[n][0] = 0;
+        for(int ind = n-1; ind >= 0; --ind){
+            for(int buy = 0; buy < 2; ++buy){
+                int prf = 0;
+                if(buy){    
+                    // I can either buy or not buy
+                    int buy_stock = (-1 * prices[ind]) + dp[ind+1][0];
+                    int move = 0 + dp[ind+1][1];
+                    prf = max(buy_stock, move); 
+                } else {
+                    // i can either sell or move
+                    int sell_stock = prices[ind] + dp[ind+1][1];
+                    int move = 0 + dp[ind+1][0];
+                    prf = max(sell_stock, move);
+                }
+                dp[ind][buy] = prf;
+            }
+        }
+
+        return dp[0][1];
+        
     }
 
     int solve(int ind, vector<int>& prices, int buy, vector<vector<int>>& dp){
