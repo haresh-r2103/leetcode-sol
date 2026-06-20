@@ -2,8 +2,22 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n+1, -1);
-        return solve(n-1, nums, dp);
+        if(n == 1) return nums[0];
+        
+        vector<int> dp(n+1, 0);
+
+
+        // base case
+        dp[0] = nums[0];
+        for(int ind = 1; ind < n; ++ind){
+            int np = 0 + dp[ind-1];
+            int p = nums[ind];
+            if(ind > 1) p += dp[ind-2];
+            dp[ind] = max(p, np);
+
+        }
+
+        return dp[n-1];
     }
 
     int solve(int ind, vector<int>& nums, vector<int>& dp){
