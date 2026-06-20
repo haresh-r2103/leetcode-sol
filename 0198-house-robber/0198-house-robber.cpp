@@ -2,21 +2,21 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, -1);
-        return findAllSub(nums, n-1, dp);
+        vector<int> dp(n+1, -1);
+        return solve(n-1, nums, dp);
     }
 
-
-    int findAllSub(vector<int>& nums, int ind, vector<int>& dp){
-
-        if(ind == 0) return nums[ind];
+    int solve(int ind, vector<int>& nums, vector<int>& dp){
         if(ind < 0) return 0;
+        if(ind == 0) return nums[0];
 
         if(dp[ind] != -1) return dp[ind];
-        
-        int p = nums[ind] + findAllSub(nums, ind-2, dp);
-        int np = findAllSub(nums, ind-1, dp);
 
-        return dp[ind] =  max(p, np);
+        int np = 0 + solve(ind-1, nums, dp);
+        
+        int p = nums[ind] + solve(ind-2, nums, dp);
+        
+
+        return dp[ind] = max(p, np);
     }
 };
