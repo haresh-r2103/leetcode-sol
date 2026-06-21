@@ -2,26 +2,30 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(3, -1)));
-        return solve(0, 1, prices, 2, dp);
-    }
+        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(3, 0)));
 
-    int solve(int ind, int buy, vector<int>& prices, int c, vector<vector<vector<int>>>& dp)
-    {
-        if(ind == prices.size() || c == 0) return 0;
-        if(dp[ind][buy][c] != -1) return dp[ind][buy][c];
-        int prf = 0;
-        
-        if(buy){
-            int buyStock = -prices[ind] + solve(ind+1, 0, prices, c, dp);
-            int move = 0 + solve(ind+1, 1, prices, c, dp);
-            prf = max(buyStock, move);
-        } else {
-            int sellStock = prices[ind] + solve(ind+1, 1, prices, c-1, dp);
-            int move = 0 + solve(ind+1, 0, prices, c, dp);
-            prf = max(sellStock, move);
+        // base case
+        // Are handles when initialisation
+
+        for(int ind = n-1; ind >= 0; --ind){
+            for(int buy = 0; buy <= 1; ++buy){
+                for(int c = 1; c <= 2; ++c){
+                    int prf = 0;
+                    if(buy){
+                        int buyStock = -prices[ind] + dp[ind+1][0][c];
+                        int move = 0 + dp[ind+1][1][c];
+                        prf = max(buyStock, move);
+                    } else {
+                        int sellStock = prices[ind] + dp[ind+1][1][c-1];
+                        int move = 0 + dp[ind+1][0][c];
+                        prf = max(sellStock, move);
+                    }
+                    dp[ind][buy][c] = prf;
+                }
+            }
         }
 
-        return dp[ind][buy][c] =  prf;                                          
+
+        return dp[0][1][2];
     }
 };
