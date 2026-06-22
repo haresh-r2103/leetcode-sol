@@ -3,30 +3,20 @@ public:
     int rob(vector<int>& nums) {
         int n = nums.size();
         if(n == 1) return nums[0];
-        vector<int> tmp1, tmp2;
-
-        for(int i = 0; i < n; ++i){
-            if(i != 0) tmp1.push_back(nums[i]);
-            if(i != n-1) tmp2.push_back(nums[i]);
-        }
-
-        return max(robPrev(tmp1), robPrev(tmp2));
+        vector<int> dp1(n+1, -1);
+        vector<int> dp2(n+1, -1);
+        return max(solve(n-1, nums, 1, dp1), solve(n-2, nums, 0, dp2));
     }
-    int robPrev(vector<int>& nums) {
-        int n = nums.size();
-        int prev = nums[0];
-        int prev2 = 0;
 
-        for(int i = 1; i < n; ++i){
-            int take = nums[i];
-            if(i > 1) take += prev2;
-            int ntake = prev;
+    int solve(int ind, vector<int>& nums, int end, vector<int>& dp){
+        if(ind < end) return 0;
+        if(dp[ind] != -1) return dp[ind];
+        // pick
+        int p = nums[ind] + solve(ind-2, nums, end, dp);
+        int np = 0 + solve(ind-1, nums, end, dp);
 
-            int curr = max(take, ntake);
-            prev2 = prev;
-            prev = curr;
-        }
+        dp[ind] =  max(p, np);
 
-        return prev;
+        return dp[ind];
     }
 };
