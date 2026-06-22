@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 | [0420-strong-password-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/0420-strong-password-checker) |
+| [0516-longest-palindromic-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/haresh-r2103/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/haresh-r2103/leetcode-sol/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
