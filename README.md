@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/haresh-r2103/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/haresh-r2103/leetcode-sol/tree/master/0768-partition-labels) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/haresh-r2103/leetcode-sol/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
