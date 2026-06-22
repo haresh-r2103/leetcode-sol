@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/haresh-r2103/leetcode-sol/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/haresh-r2103/leetcode-sol/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haresh-r2103/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/haresh-r2103/leetcode-sol/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/haresh-r2103/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1304-longest-happy-string) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/haresh-r2103/leetcode-sol/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/haresh-r2103/leetcode-sol/tree/master/1189-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/haresh-r2103/leetcode-sol/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
