@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haresh-r2103/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1092-shortest-common-supersequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/haresh-r2103/leetcode-sol/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/haresh-r2103/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/1025-divisor-game) |
+| [1092-shortest-common-supersequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1236-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/haresh-r2103/leetcode-sol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
