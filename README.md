@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/haresh-r2103/leetcode-sol/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/haresh-r2103/leetcode-sol/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/haresh-r2103/leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/haresh-r2103/leetcode-sol/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/haresh-r2103/leetcode-sol/tree/master/0139-word-break) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/haresh-r2103/leetcode-sol/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haresh-r2103/leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
