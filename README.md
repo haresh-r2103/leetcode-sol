@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/haresh-r2103/leetcode-sol/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/haresh-r2103/leetcode-sol/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/haresh-r2103/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/haresh-r2103/leetcode-sol/tree/master/0125-valid-palindrome) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/haresh-r2103/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/haresh-r2103/leetcode-sol/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/haresh-r2103/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haresh-r2103/leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
