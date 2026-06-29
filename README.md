@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/haresh-r2103/leetcode-sol/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/haresh-r2103/leetcode-sol/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/haresh-r2103/leetcode-sol/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/haresh-r2103/leetcode-sol/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0070-climbing-stairs) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/haresh-r2103/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/haresh-r2103/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/haresh-r2103/leetcode-sol/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/haresh-r2103/leetcode-sol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/haresh-r2103/leetcode-sol/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/haresh-r2103/leetcode-sol/tree/master/0091-decode-ways) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/haresh-r2103/leetcode-sol/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Graph Theory
 |  |
