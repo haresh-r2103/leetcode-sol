@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/haresh-r2103/leetcode-sol/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/haresh-r2103/leetcode-sol/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/haresh-r2103/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/haresh-r2103/leetcode-sol/tree/master/0907-koko-eating-bananas) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/haresh-r2103/leetcode-sol/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/haresh-r2103/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haresh-r2103/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/haresh-r2103/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1441-build-an-array-with-stack-operations](https://github.com/haresh-r2103/leetcode-sol/tree/master/1441-build-an-array-with-stack-operations) |
@@ -815,4 +817,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/haresh-r2103/leetcode-sol/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
