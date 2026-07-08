@@ -1,32 +1,33 @@
 class Solution {
-private:
-    void recurPerm(vector<int>& ds, vector<int>& nums, vector<vector<int>>& ans, int freq[]){
-        if(nums.size() == ds.size()){
-            ans.push_back(ds);
+public:
+    vector<vector<int>> permute(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> freq(n, 0);
+        vector<vector<int>> ans;
+        vector<int> t;
+
+        dfs(nums, freq, t, ans);
+
+        return ans;
+    }
+
+    void dfs(vector<int>& nums, vector<int>& freq, vector<int>& t, vector<vector<int>>& ans){
+        // base case
+        if(t.size() == nums.size()){
+            ans.push_back(t);
             return;
         }
 
-        for(int i=0;i<nums.size();i++){
+
+        for(int i = 0; i < nums.size(); ++i){
             if(!freq[i]){
-                ds.push_back(nums[i]);
+                t.push_back(nums[i]);
                 freq[i] = 1;
-                recurPerm(ds, nums, ans, freq);
+                dfs(nums, freq, t, ans);
+                t.pop_back();
                 freq[i] = 0;
-                ds.pop_back();
             }
         }
 
-        
-    }
-public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> ds;
-        int freq[nums.size()];
-        for(int i=0;i<nums.size();i++){
-            freq[i] = 0;
-        }
-        recurPerm(ds, nums, ans, freq);     
-        return ans;
     }
 };
