@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/haresh-r2103/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/haresh-r2103/leetcode-sol/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/haresh-r2103/leetcode-sol/tree/master/0084-largest-rectangle-in-histogram) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/haresh-r2103/leetcode-sol/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/haresh-r2103/leetcode-sol/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/haresh-r2103/leetcode-sol/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/haresh-r2103/leetcode-sol/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/haresh-r2103/leetcode-sol/tree/master/0494-target-sum) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/haresh-r2103/leetcode-sol/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/haresh-r2103/leetcode-sol/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/haresh-r2103/leetcode-sol/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/haresh-r2103/leetcode-sol/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/haresh-r2103/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/haresh-r2103/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/haresh-r2103/leetcode-sol/tree/master/0125-valid-palindrome) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/haresh-r2103/leetcode-sol/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/haresh-r2103/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/haresh-r2103/leetcode-sol/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/haresh-r2103/leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
