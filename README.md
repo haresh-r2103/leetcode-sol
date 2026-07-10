@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/haresh-r2103/leetcode-sol/tree/master/0420-strong-password-checker) |
 | [0516-longest-palindromic-subsequence](https://github.com/haresh-r2103/leetcode-sol/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/haresh-r2103/leetcode-sol/tree/master/0539-minimum-time-difference) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/haresh-r2103/leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/haresh-r2103/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/haresh-r2103/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/haresh-r2103/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/haresh-r2103/leetcode-sol/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/haresh-r2103/leetcode-sol/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/haresh-r2103/leetcode-sol/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/haresh-r2103/leetcode-sol/tree/master/0739-daily-temperatures) |
