@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/haresh-r2103/leetcode-sol/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haresh-r2103/leetcode-sol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/haresh-r2103/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/haresh-r2103/leetcode-sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haresh-r2103/leetcode-sol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/haresh-r2103/leetcode-sol/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haresh-r2103/leetcode-sol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/haresh-r2103/leetcode-sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
