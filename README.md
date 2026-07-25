@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haresh-r2103/leetcode-sol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/haresh-r2103/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/haresh-r2103/leetcode-sol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3536-maximum-product-of-two-digits](https://github.com/haresh-r2103/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/haresh-r2103/leetcode-sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/haresh-r2103/leetcode-sol/tree/master/2681-put-marbles-in-bags) |
+| [3536-maximum-product-of-two-digits](https://github.com/haresh-r2103/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
