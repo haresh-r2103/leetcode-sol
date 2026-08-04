@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3643-zero-array-transformation-ii) |
+| [3731-find-missing-elements](https://github.com/haresh-r2103/leetcode-sol/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/haresh-r2103/leetcode-sol/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3731-find-missing-elements](https://github.com/haresh-r2103/leetcode-sol/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haresh-r2103/leetcode-sol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/haresh-r2103/leetcode-sol/tree/master/2681-put-marbles-in-bags) |
 | [3536-maximum-product-of-two-digits](https://github.com/haresh-r2103/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/haresh-r2103/leetcode-sol/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
