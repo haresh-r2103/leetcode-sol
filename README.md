@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haresh-r2103/leetcode-sol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/haresh-r2103/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/haresh-r2103/leetcode-sol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/haresh-r2103/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/haresh-r2103/leetcode-sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/haresh-r2103/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/haresh-r2103/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/haresh-r2103/leetcode-sol/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
