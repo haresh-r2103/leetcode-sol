@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/haresh-r2103/leetcode-sol/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/haresh-r2103/leetcode-sol/tree/master/2793-count-the-number-of-complete-components) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/haresh-r2103/leetcode-sol/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/haresh-r2103/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/haresh-r2103/leetcode-sol/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/haresh-r2103/leetcode-sol/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/haresh-r2103/leetcode-sol/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/haresh-r2103/leetcode-sol/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/haresh-r2103/leetcode-sol/tree/master/2588-maximum-number-of-points-from-grid-queries) |
